@@ -83,6 +83,6 @@ Contributions are welcome! Whether you’re a developer, designer, or blockchain
 ---
 
 ## **License**
-Project Nexus is released under the Apache 2.0 License.
+Project Nexus is released under the MIT License.
 
 
