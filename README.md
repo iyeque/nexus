@@ -1,3 +1,4 @@
+🌍🔗
 # Project Nexus: A Decentralized Browser and Internet
 
 ## **Overview**
